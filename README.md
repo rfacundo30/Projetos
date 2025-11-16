@@ -1,2 +1,6 @@
-# Digital College
-Aqui vou mostrar todos os projetos que criei
+# Desafio: Montar uma tela BB
+Dificuldade: Iniciante
+
+1. FOI CRIADO SOMENTE A PARTE VISUAL E BEM BASICO DO SITE DO BANDO DO BRASIL.
+2. NÃO TEM FUNCIONALIDADE NENHUMA.
+3. EXERCICIO DO CURSO DIGITAL COLLEGE.
